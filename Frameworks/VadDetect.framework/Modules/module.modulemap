@@ -1,0 +1,6 @@
+framework module VadDetect {
+  umbrella header "VadDetect.h"
+
+  export *
+  module * { export * }
+}

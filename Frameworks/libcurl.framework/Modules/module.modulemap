@@ -1,0 +1,6 @@
+framework module libcurl {
+  umbrella header "libcurl-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module IJKMedia {
+  umbrella header "IJKMedia.h"
+
+  export *
+  module * { export * }
+}

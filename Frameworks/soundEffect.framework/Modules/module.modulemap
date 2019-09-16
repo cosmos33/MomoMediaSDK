@@ -1,0 +1,6 @@
+framework module soundEffect {
+  umbrella header "soundEffect.h"
+
+  export *
+  module * { export * }
+}
